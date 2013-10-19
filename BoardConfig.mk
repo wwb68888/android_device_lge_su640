@@ -12,3 +12,5 @@ TARGET_KERNEL_CONFIG := cyanogenmod_su640_defconfig
 TARGET_PREBUILT_KERNEL := device/lge/su640/kernel
 
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/lge/su640/bluetooth
+
+TARGET_RECOVERY_FSTAB = device/lge/su640/fstab.iprj
